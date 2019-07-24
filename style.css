@@ -1,0 +1,23 @@
+/*
+Theme Name: Philosophy
+Theme URI: somewhere.com
+Author: Adventure Mahfuz
+Author URI:example@gmial.com
+Description: This is my third project.
+Version: 1.0
+License: GNU General public license v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog
+Text Domain: philosophy
+ */
+.s-content__author-social{
+    font-size: 35px;
+}
+.no-padding{
+    padding-top: 0px;
+}
+
+.search-highlight{
+    background-color: #ff0;
+    font-weight: bold;
+}
